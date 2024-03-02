@@ -1,4 +1,4 @@
-![Cover](./.github/cover.png)
+![cover](https://github.com/Snarloff/nlw-expert-react/assets/46792575/f450bd4d-fe1d-4980-b2fa-bb7780374441)
 
 # NLW Expert (React)
 
